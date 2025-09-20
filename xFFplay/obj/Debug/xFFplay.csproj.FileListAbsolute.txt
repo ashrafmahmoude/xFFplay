@@ -1,0 +1,11 @@
+C:\Users\pppp\source\repos\xFFplay\xFFplay\bin\Debug\xFFplay.exe.config
+C:\Users\pppp\source\repos\xFFplay\xFFplay\bin\Debug\xFFplay.exe
+C:\Users\pppp\source\repos\xFFplay\xFFplay\bin\Debug\xFFplay.pdb
+C:\Users\pppp\source\repos\xFFplay\xFFplay\obj\Debug\xFFplay.csproj.AssemblyReference.cache
+C:\Users\pppp\source\repos\xFFplay\xFFplay\obj\Debug\xFFplay.Form1.resources
+C:\Users\pppp\source\repos\xFFplay\xFFplay\obj\Debug\xFFplay.Properties.Resources.resources
+C:\Users\pppp\source\repos\xFFplay\xFFplay\obj\Debug\xFFplay.csproj.GenerateResource.cache
+C:\Users\pppp\source\repos\xFFplay\xFFplay\obj\Debug\xFFplay.csproj.CoreCompileInputs.cache
+C:\Users\pppp\source\repos\xFFplay\xFFplay\obj\Debug\xFFplay.exe
+C:\Users\pppp\source\repos\xFFplay\xFFplay\obj\Debug\xFFplay.pdb
+C:\Users\pppp\source\repos\xFFplay\xFFplay\obj\Debug\xFFplay.Form2.resources
